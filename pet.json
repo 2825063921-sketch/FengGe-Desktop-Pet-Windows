@@ -1,0 +1,22 @@
+{
+  "role": "fengge",
+  "title": "好事桌宠 · Windows",
+  "exe": "FengGe.exe",
+  "package": "FengGe-Desktop-Pet-Windows",
+  "version": "1.0.0",
+  "shortcut": "好事桌宠",
+  "clipCount": 11,
+  "defaultIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ]
+}

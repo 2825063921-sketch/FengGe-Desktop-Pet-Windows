@@ -1,0 +1,128 @@
+{
+  "upstream": "https://github.com/Ganzhe2028/FengGe-Desktop-Pet",
+  "upstreamCommit": "d3336debfafc37963ec5612cb27793e250228b9b",
+  "windowsReference": "https://github.com/yzh423/SunPET",
+  "windowsReferenceCommit": "1249837843ce23a6bf2630778257a12a5a8b96df",
+  "files": [
+    {
+      "path": "Assets/clips.json",
+      "sha256": "a7ceca25c8c2b70324f0ceb20abaca3c74589d9cf8241bd14b6e5e6025e51bec",
+      "bytes": 1273
+    },
+    {
+      "path": "Assets/Clips/01.wav",
+      "sha256": "e2e66edf8e7d77149bab8cfdfd4132c14579b55b06cc64f66fab407a05bc2cd3",
+      "bytes": 189676
+    },
+    {
+      "path": "Assets/Clips/02.wav",
+      "sha256": "89c0534385cfdef24c0f2ac58679826d17f460f8a0fe47fc8e00d1d262e42773",
+      "bytes": 161448
+    },
+    {
+      "path": "Assets/Clips/03.wav",
+      "sha256": "99ccbdc8855ee4498733e036de868316070fbffed60536a9526a4bc56c17a582",
+      "bytes": 291984
+    },
+    {
+      "path": "Assets/Clips/04.wav",
+      "sha256": "4bcda30c084bda725e451632fe68fa2bad525080a298ceb60905b729eed1dc0c",
+      "bytes": 192324
+    },
+    {
+      "path": "Assets/Clips/05.wav",
+      "sha256": "26dc350e93fa1a96b8f7c7a27389d4ffc0a6ce0d0f5c259c3d7bcaaad285d741",
+      "bytes": 225836
+    },
+    {
+      "path": "Assets/Clips/06.wav",
+      "sha256": "433133d39ca27afcc71b30d6106dcd0dc31aedaa7781adcdfc380c53487d35e0",
+      "bytes": 191436
+    },
+    {
+      "path": "Assets/Clips/07.wav",
+      "sha256": "48dcdb8d525cf180a852f292d1db5b0ec1b95c2ca1885ac5761311ecc2c8f87a",
+      "bytes": 265792
+    },
+    {
+      "path": "Assets/Clips/08.wav",
+      "sha256": "a9d1a270d0351a917c4927abfc3186697496570739d499659742de1dfaa87217",
+      "bytes": 153512
+    },
+    {
+      "path": "Assets/Clips/09.wav",
+      "sha256": "2d5480ccfb92c8edc6d688d13c1bf51bea663b3c7fd31c7265b070467c058259",
+      "bytes": 203784
+    },
+    {
+      "path": "Assets/Clips/10.wav",
+      "sha256": "2372540aa9224d616df767d03d58319b87bc034dc5cef56bbde038ca8049cf23",
+      "bytes": 164980
+    },
+    {
+      "path": "Assets/Clips/11.wav",
+      "sha256": "9bf94246acde699b263fb4c1d788e455214975be5984f491f3376542a70df349",
+      "bytes": 247004
+    },
+    {
+      "path": "Assets/face.png",
+      "sha256": "f1d19580cf1ebbc47c98fc6a86a5a8b59d4d4ea528f8bc240f04b407bfde2266",
+      "bytes": 1983848
+    },
+    {
+      "path": "Assets/Playback/01.wav",
+      "sha256": "e2e66edf8e7d77149bab8cfdfd4132c14579b55b06cc64f66fab407a05bc2cd3",
+      "bytes": 189676
+    },
+    {
+      "path": "Assets/Playback/02.wav",
+      "sha256": "89c0534385cfdef24c0f2ac58679826d17f460f8a0fe47fc8e00d1d262e42773",
+      "bytes": 161448
+    },
+    {
+      "path": "Assets/Playback/03.wav",
+      "sha256": "99ccbdc8855ee4498733e036de868316070fbffed60536a9526a4bc56c17a582",
+      "bytes": 291984
+    },
+    {
+      "path": "Assets/Playback/04.wav",
+      "sha256": "4bcda30c084bda725e451632fe68fa2bad525080a298ceb60905b729eed1dc0c",
+      "bytes": 192324
+    },
+    {
+      "path": "Assets/Playback/05.wav",
+      "sha256": "26dc350e93fa1a96b8f7c7a27389d4ffc0a6ce0d0f5c259c3d7bcaaad285d741",
+      "bytes": 225836
+    },
+    {
+      "path": "Assets/Playback/06.wav",
+      "sha256": "433133d39ca27afcc71b30d6106dcd0dc31aedaa7781adcdfc380c53487d35e0",
+      "bytes": 191436
+    },
+    {
+      "path": "Assets/Playback/07.wav",
+      "sha256": "48dcdb8d525cf180a852f292d1db5b0ec1b95c2ca1885ac5761311ecc2c8f87a",
+      "bytes": 265792
+    },
+    {
+      "path": "Assets/Playback/08.wav",
+      "sha256": "a9d1a270d0351a917c4927abfc3186697496570739d499659742de1dfaa87217",
+      "bytes": 153512
+    },
+    {
+      "path": "Assets/Playback/09.wav",
+      "sha256": "2d5480ccfb92c8edc6d688d13c1bf51bea663b3c7fd31c7265b070467c058259",
+      "bytes": 203784
+    },
+    {
+      "path": "Assets/Playback/10.wav",
+      "sha256": "2372540aa9224d616df767d03d58319b87bc034dc5cef56bbde038ca8049cf23",
+      "bytes": 164980
+    },
+    {
+      "path": "Assets/Playback/11.wav",
+      "sha256": "9bf94246acde699b263fb4c1d788e455214975be5984f491f3376542a70df349",
+      "bytes": 247004
+    }
+  ]
+}
